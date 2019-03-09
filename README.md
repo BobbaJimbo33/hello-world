@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Split milk!
+Hi Spilt milk!
 
 I like Machine Learning because it will make the future better. I would like to make the world a better place
 so that our next generations can do things that are much more interesting like exploring the stars and not having 
